@@ -1,0 +1,18 @@
+﻿# Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# .NET
+*.user
+*.suo
+*.cache
+*.pdb
+
+# IDE
+.vs/
+.idea/
+*.swp
+
+# Release exe (will commit the one in bin/Release separately)
+# [Rr]elease/
