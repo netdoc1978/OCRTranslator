@@ -13,7 +13,7 @@
 
 - Windows 7 及以上版本
 - .NET Framework 4.0 或更高版本（Windows 10/11 自带）
-- 网络连接（用于调用百度 OCR 和翻译 API）
+- 网络连接（用于调用OCR 和翻译 API）
 
 ## 使用方法
 
